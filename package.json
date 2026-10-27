@@ -1,0 +1,12 @@
+{
+  "name": "surya-birthday-surprise",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A little birthday surprise for Surya",
+  "scripts": {
+    "start": "vite --host 0.0.0.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}
